@@ -1,0 +1,20 @@
+* HACKpert
+hackmode expert shell
+
+Stuff TBD as i have alot of random other projects to atend to. This is yet another shiny object in my view.
+
+** TODO Ideas [0/10]
+*** TODO run_tool
+half baked
+**** TODO parse_tool hooks
+**** TODO get targets from parsed terms
+*** TODO suggest_tool
+*** TODO suggest_exploit
+*** TODO suggest_cve
+For suggest CVE I will use the detected software version I and a simple search of the software version + if it matches a thing from cvelist assume vuln? (range checks?)
+*** TODO repl
+*** TODO create_op
+*** TODO list_ops
+*** TODO switch_op
+*** TODO save_expert
+*** STRT Scope
