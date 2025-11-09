@@ -1,7 +1,8 @@
 * HACKpert
-hackmode expert shell
+hackmode expert shell.
 
-Stuff TBD as i have alot of random other projects to atend to. This is yet another shiny object in my view.
+For now its nothing, just a set of hackmode related predicates, scope, run tool and targets.
+
 
 ** TODO Ideas [0/10]
 *** TODO run_tool
